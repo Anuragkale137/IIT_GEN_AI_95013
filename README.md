@@ -5,7 +5,7 @@
 <h1 align="center">🚀 GenAI Industrial Internship Repository</h1>
 
 <p align="center">
-  <a href="https://github.com/Shreyashchavare">
+  <a href="https://github.com/Anuragkale137">
     <img src="https://img.shields.io/github/followers/Anuragkale137?label=Follow&style=social" />
   </a>
   <a href="https://www.linkedin.com/in/anurag-kale-22b2b3369/">
