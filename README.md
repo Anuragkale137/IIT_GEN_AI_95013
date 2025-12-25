@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://github.com/Shreyashchavare">
-    <img src="https://img.shields.io/github/followers/Shreyashchavare?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/Anuragkale137?label=Follow&style=social" />
   </a>
-  <a href="https://linkedin.com/in/shreyash-chavare">
+  <a href="https://www.linkedin.com/in/anurag-kale-22b2b3369/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
